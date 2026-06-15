@@ -1,0 +1,11 @@
+Plugins/UnrealClaude/
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+.claude/
+CLAUDE.md
+*.sln
+*.sln.DotSettings.user
+Content/Sokoban/Core/*.py
+Content/UnrealClaude/
